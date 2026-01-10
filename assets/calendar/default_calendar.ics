@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Future Business Leaders of America (FBLA) - ECPv6.15.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Future Business Leaders of America (FBLA)
+X-ORIGINAL-URL:https://www.fbla.org
+X-WR-CALDESC:Events for Future Business Leaders of America (FBLA)
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260121T180000
+DTEND;TZID=America/Detroit:20260121T190000
+DTSTAMP:20260101T164909
+CREATED:20250918T180158Z
+LAST-MODIFIED:20250918T180158Z
+UID:10000019-1769018400-1769022000@www.fbla.org
+SUMMARY:Industry Connect Webinar
+DESCRIPTION:
+URL:https://www.fbla.org/event/industry-connect-webinar/
+CATEGORIES:Collegiate,High School,Member Webinar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260301
+DTSTAMP:20260101T164909
+CREATED:20250918T181437Z
+LAST-MODIFIED:20250918T181437Z
+UID:10000024-1769904000-1772323199@www.fbla.org
+SUMMARY:National Career & Technical Education Month
+DESCRIPTION:
+URL:https://www.fbla.org/event/national-career-technical-education-month/
+CATEGORIES:Celebration,Collegiate,High School,Middle School
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260215
+DTSTAMP:20260101T164909
+CREATED:20241014T144055Z
+LAST-MODIFIED:20250918T181612Z
+UID:10000014-1770508800-1771113599@www.fbla.org
+SUMMARY:FBLA Week
+DESCRIPTION:Celebrate FBLA Week with us on February 8-14\, 2025! This week\, held during National Career & Technical Education Month\, is a highlight of the membership year\, and we can’t wait to see you at all the national events we have planned.
+URL:https://www.fbla.org/event/fbla-week/
+CATEGORIES:Collegiate,FBLA Week,High School,Middle School
+ATTACH;FMTTYPE=image/jpeg:https://www.fbla.org/media/2024/12/FLBA-Week.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260218T180000
+DTEND;TZID=America/Detroit:20260218T190000
+DTSTAMP:20260101T164909
+CREATED:20250918T180255Z
+LAST-MODIFIED:20250918T180255Z
+UID:10000020-1771437600-1771441200@www.fbla.org
+SUMMARY:Industry Connect Webinar
+DESCRIPTION:
+URL:https://www.fbla.org/event/industry-connect-webinar-2/
+CATEGORIES:Collegiate,High School,Member Webinar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260221T110000
+DTEND;TZID=America/Detroit:20260221T130000
+DTSTAMP:20260101T164909
+CREATED:20251208T205335Z
+LAST-MODIFIED:20251208T205335Z
+UID:10000028-1771671600-1771678800@www.fbla.org
+SUMMARY:Collegiate Officer Leadership Summit
+DESCRIPTION:Launch your leadership journey at the Officer Leadership Summit on February 21\, 2026 from 11:00 AM-1:00 PM ET! This exclusive virtual event brings together all Collegiate officers for a powerful session of leadership growth\, networking\, and FBLA inspiration. Whether you’re leading your chapter or your state\, this summit is your chance to expand your skills\, connect with fellow officers nationwide\, and elevate your FBLA journey. Take this opportunity to lead with impact!
+URL:https://www.fbla.org/event/collegiate-officer-leadership-summit-2/
+CATEGORIES:Collegiate,Member Webinar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260318T180000
+DTEND;TZID=America/Detroit:20260318T190000
+DTSTAMP:20260101T164909
+CREATED:20250918T180343Z
+LAST-MODIFIED:20250918T180343Z
+UID:10000021-1773856800-1773860400@www.fbla.org
+SUMMARY:Industry Connect Webinar
+DESCRIPTION:
+URL:https://www.fbla.org/event/industry-connect-webinar-3/
+CATEGORIES:Collegiate,High School,Member Webinar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260101T164909
+CREATED:20241003T165316Z
+LAST-MODIFIED:20250801T150410Z
+UID:10000005-1780704000-1780963199@www.fbla.org
+SUMMARY:National Leadership Conference - Collegiate
+DESCRIPTION:The 2026 Collegiate National Leadership Conference will take place in Las Vegas\, Nevada on June 6-8. \nMore information coming early 2026.
+URL:https://www.fbla.org/event/2025-collegiate-nlc/
+CATEGORIES:Collegiate,Conferences
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260703
+DTSTAMP:20260101T164909
+CREATED:20241003T165316Z
+LAST-MODIFIED:20250801T150351Z
+UID:10000006-1782691200-1783036799@www.fbla.org
+SUMMARY:National Leadership Conference MS/HS
+DESCRIPTION:The 2026 Middle School & High School National Leadership Conference will take place in San Antonio\, Texas on June 29-July 2. \nMore information coming early 2026.
+URL:https://www.fbla.org/event/nlc-middle-school-high-school/
+CATEGORIES:Conferences,High School,Middle School
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58648859952",
+    "project_id": "fbla-aspire",
+    "storage_bucket": "fbla-aspire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58648859952:android:2ae4e4ac4dada2b3cf64f5",
+        "android_client_info": {
+          "package_name": "com.example.fblaaspire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoqUrNerj2w5IGoAGTV_TtNiq4hpRFYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
